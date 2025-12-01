@@ -1,0 +1,12 @@
+baseURL = 'https://leapingspark.github.io/'
+languageCode = 'en-us'
+title = 'Leaping Spark'
+theme = 'hugo-tufte'
+
+[params]
+  showPoweredBy = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
