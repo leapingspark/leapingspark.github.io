@@ -1,15 +1,21 @@
 ---
-title: "Home"
+title: "Leaping Spark"
 ---
 
-Welcome to Leaping Spark. This is a placeholder for your content.
+Interdisciplinary coordination point for *"Did Plato Mean What He Said?"* and related research.
 
-The typography you see here is inspired by Edward Tufte's work—clean, readable, and designed for long-form reading. The optimal line width ensures comfortable reading, and the serif typeface gives it that classic academic feel.
+**Paper:** [leapingspark.github.io/paper.pdf](https://leapingspark.github.io/paper.pdf)
 
-## Getting Started
+**Extended materials:** [substack.com/@leapingspark](https://substack.com/@leapingspark)
 
-Edit this file at `content/_index.md` to add your own content. You can use standard Markdown with some Tufte-specific shortcodes for sidenotes and margin notes.
+**Discussion:** [GitHub Discussions](https://github.com/orgs/leapingspark/discussions)
 
-{{< sidenote >}}This is a sidenote. It appears in the margin and doesn't interrupt the flow of reading.{{< /sidenote >}}
+---
 
-The design emphasizes content over chrome—no unnecessary visual elements, just well-set type on a clean background.
+### Authors
+
+**Rodionov, V.**
+v@here.build
+
+**Merkle, B.**
+merklebonsai@pm.me · [x.com/merkle_bonsai](https://x.com/merkle_bonsai) · [t.me/merkle_bonsai](https://t.me/merkle_bonsai)
